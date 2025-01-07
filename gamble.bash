@@ -1,4 +1,3 @@
-cd ~/Programming/gamblecore
 ./gamble.py
 ./gamble.py
 ./gamble.py
